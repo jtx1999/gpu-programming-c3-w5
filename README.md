@@ -26,4 +26,6 @@ copies to device, applies the filter, and writes the result to the output folder
 
 Run `run.sh`.
 
+Use the `-input` command line flag to specify the input folder to use.
+
 The code is tested on ubuntu 20.04 and nvcc 11.6.
