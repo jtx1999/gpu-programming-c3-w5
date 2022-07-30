@@ -1,7 +1,6 @@
 # CUDA at Scale Independent Project
 
-Assignment for the Coursera course [CUDA at Scale for the Enterprise
-](https://www.coursera.org/learn/cuda-at-scale-for-the-enterprise).
+Assignment for the Coursera course [CUDA at Scale for the Enterprise](https://www.coursera.org/learn/cuda-at-scale-for-the-enterprise).
 
 ## Project description
 
